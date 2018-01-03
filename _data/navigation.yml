@@ -8,7 +8,7 @@
 - title: Works 作品集
   url: /portfolio/
   excerpt: "含信息可视化及网页设计的作品"
-  image: 222.gif
+  image: emm.gif
 
 - title: 文章（TABLEAU）
   url: /posts/infovis/
@@ -18,7 +18,7 @@
 - title: 文章（HTML）
   url: /posts/rwd/
   excerpt: "一些奇奇怪怪的课堂笔记"
-  image: 555.gif
+  image: amm.gif
 
 - title: Contact 聯絡我
   url: /contact/
